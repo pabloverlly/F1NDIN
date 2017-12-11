@@ -6,7 +6,7 @@
 USAGE:
 
 
-/*
+
 		[mod_head]
 		Picks up the page response code and interprets.
 		By default, Any return code other than 404 is interpreted as a white page.
@@ -21,4 +21,4 @@ USAGE:
 		It is necessary to configure the title string.
 		By default, The title string is "404".
 
-*/
+
