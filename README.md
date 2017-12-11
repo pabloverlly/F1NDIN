@@ -3,7 +3,7 @@
 #WEBSITE CRAWLER
 
 
-*USAGE:
+*USAGE:*
 /*
 		[mod_head]
 		Picks up the page response code and interprets.
