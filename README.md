@@ -4,7 +4,8 @@
 
 
 USAGE:
-_php F1NDIN.php ["http://www.target.com/"] [asp/php/any] [mod_head/mod_body/mod_title]_
+php F1NDIN.php ["http://www.target.com/"] [asp/php/any] [mod_head/mod_body/mod_title]
+
 
 
 
