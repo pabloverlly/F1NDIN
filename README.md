@@ -1,9 +1,9 @@
 # F1NDIN
 
-#WEBSITE CRAWLER
+## WEBSITE CRAWLER
 
 
-USAGE:
+###### USAGE:
 php F1NDIN.php ["http://www.target.com/"] [asp/php/any] [mod_head/mod_body/mod_title]
 
 
