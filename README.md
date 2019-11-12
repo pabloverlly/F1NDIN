@@ -17,8 +17,9 @@ Busca diretórios usando uma frase especifica retornada no título da página.
 Mesma coisa do exemplo anterior, Só que agora vamos interpretar o retorno do título. ex:. ```<title> woops .. </title>```
 
 
+
 #### USAGE:
-> php F1NDIN.php ["http://www.target.com/"] [asp/php/any] [mod_head/mod_body/mod_title]
+```bash php F1NDIN.php ["http://www.target.com/"] [asp/php/any] [mod_head/mod_body/mod_title]```
 
 
 
