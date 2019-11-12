@@ -19,7 +19,7 @@ Mesma coisa do exemplo anterior, S√≥ que agora vamos interpretar o retorno do t√
 
 
 #### USAGE:
-```bash php F1NDIN.php ["http://www.target.com/"] [asp/php/any] [mod_head/mod_body/mod_title]```
+``` php F1NDIN.php ["http://www.target.com/"] [asp/php/any] [mod_head/mod_body/mod_title]```
 
 
 
