@@ -1,6 +1,6 @@
 # F1NDIN
 
-## WEBSITE CRAWLER
+### scanner de diretório
 
 
 ###### USAGE:
