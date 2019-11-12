@@ -5,15 +5,18 @@ Scanner de diretórios personalizado.
 ##### [mod_head]
 
 Busca diretórios usando o método HTTP HEAD
+
 Por padrão se a página retornar 404, O diretório não existe.
 
 ##### [mod_body]
 Busca diretórios usando uma frase especifica retornada no corpo da página.
+
 Suponhamos que o corpo (body) da resposta retorne algo como ```wooops, página não encontrada```
 Então podemos supor que toda página que não existe vai retornar essa frase.
 
 ##### [mod_title]
 Busca diretórios usando uma frase especifica retornada no título da página.
+
 Mesma coisa do exemplo anterior, Só que agora vamos interpretar o retorno do título. ex:. ```<title> woops .. </title>```
 
 
